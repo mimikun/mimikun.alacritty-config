@@ -1,0 +1,6 @@
+live_config_reload = true
+ipc_socket = true
+working_directory = "/home/mimikun"
+
+
+# vim:ft=toml.chezmoitmpl
