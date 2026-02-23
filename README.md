@@ -1,0 +1,2 @@
+# mimikun's alacritty config
+
